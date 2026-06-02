@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Remplace ce lien par le lien de ta propre photo de profil une fois importée sur GitHub -->
-  <img src="https://github.com/votre-identifiant/votre-depot/raw/main/votre-photo.jpg" alt="Ndeye Mbasse Ndiaye" width="150" style="border-radius: 50%; border: 3px solid #7FA99B;"/>
+  <img src="https://github.com/votre-identifiant/votre-depot/raw/main/votre-photo.jpeg" alt="Ndeye Mbasse Ndiaye" width="150" style="border-radius: 50%; border: 3px solid #7FA99B;"/>
 </p>
 
 ## 🧑‍💻 À propos de moi
